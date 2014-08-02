@@ -22,6 +22,8 @@ public class FindDuplicateElements {
 	public static void main(String[] args) {
 		find(new int[] { 2, 4, 3, 4, 5, 1, 2, 2 }, 5);
 		find(new int[] { 1, 1, 1, 2, 1, 1 }, 2);
+		find(new int[] { 1, 1, 1, 2, 1, 1 }, 3);
+
 	}
 
 }
