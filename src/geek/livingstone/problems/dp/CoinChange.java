@@ -17,7 +17,7 @@ public class CoinChange {
     }
     for (int i=0;i<=N;i++)
       System.out.println(Arrays.toString(count[i]));
-    System.out.println("Number of different ways is " + count[N][S.length]);
+    System.out.println("Number of different wways is " + count[N][S.length]);
   }
 
   public static void main(String[] args) {
